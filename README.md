@@ -12,5 +12,6 @@ practice repository for personal revision
  - can also add your configurations inside that file as we have in the sir's [file_folder:](https://github.com/hiteshchoudhary/js-hindi-youtube/blob/main/.devcontainer/devcontainer.json)
 
 - to run this we need to run it with the folder or dir path and file name .js So we have to write like this To save to the repo we need to push it using left hand side git icon
+- at last, don't forget to close your machine from [codespaces](https://github.com/kd2-80161/js_with_Histesh_Sir/codespaces) as it has a limited no of free hours in a month 
 
-hitesh sir [YT video link](https://youtu.be/-GoKoR6aLcY?si=oEXc7QJISVcYFZJm)
+### Hitesh sir [YT video link](https://youtu.be/-GoKoR6aLcY?si=oEXc7QJISVcYFZJm)

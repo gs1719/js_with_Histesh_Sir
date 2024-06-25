@@ -11,7 +11,7 @@ let valueInNumber = Number(score)
 
 let checkChar = 'a'
 let charInNumber = Number (checkChar)
-// console.log(charInNumber);
+console.log("Char converted to number "+charInNumber);
 
 // still it will remained NaN as it will 
 // as there is no character specified here in this site
@@ -31,8 +31,10 @@ let isLoggedIn = "hitesh"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 
- console.log(booleanIsLoggedIn);
+ console.log("When String converted to Boolean "+booleanIsLoggedIn);
 
+let emptyString = ""
+console.log("Empty string to boolean is "+Boolean (emptyString));
 
 /*
 // 1 => true; 0 => false
@@ -49,3 +51,9 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
  * true ayega 
  * 1 and above pe and "one letter and above pe"
  */
+
+let checkUndefined = undefined;
+console.log("undefined type "+ typeof checkUndefined);
+
+let checkNull = null
+console.log("Null type "+ typeof checkNull);
